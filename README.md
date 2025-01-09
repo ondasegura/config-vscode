@@ -7,26 +7,7 @@ Controle do tema (claro ou escuro) e do layout.
 Ajustes de fontes, espaçamento, e tabulação.
 Configurações específicas para linguagens (JavaScript, Python, etc.).
 Habilitação/desabilitação de recursos como linting, autoformatação e snippets.
-2. Extensões
-Extensões são um dos pilares do VS Code. Exemplos:
-Prettier ou ESLint para formatação de código.
-GitLens para controle avançado de versionamento.
-Live Server para desenvolvimento web.
-Python para suporte avançado à linguagem Python.
-Essas extensões podem ser configuradas individualmente.
-3. Atalhos de Teclado (keybindings.json)
-Modificação ou criação de atalhos personalizados.
-Integração com ferramentas e comandos do próprio VS Code.
-4. Configurações do Workspace
-Específicas para um projeto ou repositório.
-Configurações de ambiente, como paths, variáveis, e configurações de depuração (launch.json).
-5. Temas e Ícones
-Instalação de temas visuais (e.g., Dracula, Material Theme).
-Pacotes de ícones para arquivos e pastas.
-6. Configuração de Git e Terminal
-Integração com sistemas de controle de versão.
-Personalização do terminal integrado (escolha de shell, cores, etc.).
-Uma boa configuração do VS Code pode melhorar drasticamente a produtividade, tornando o editor adequado ao fluxo de trabalho do desenvolvedor.
+
 
 
 {
